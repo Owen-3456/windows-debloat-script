@@ -3,5 +3,5 @@
 Run with:
 
 ```powershell
-irm "owen3456.xyz/debloat | iex
+irm "owen3456.xyz/debloat" | iex
 ```
